@@ -1,0 +1,33 @@
+[2026-06-04 12:46:30] INFO     main — === Python Automation Toolkit ===
+[2026-06-04 12:46:30] DEBUG    FileOrganizer — Moved: sample.csv → Code/
+[2026-06-04 12:46:30] INFO     FileOrganizer — Organized 1 file(s) into 1 categorie(s).
+[2026-06-04 12:46:30] WARNING  DataProcessor — File not found: ./data/sample.csv. Starting with empty dataset.
+[2026-06-04 12:46:30] INFO     main — Data summary: {'rows': 0, 'columns': 0, 'stats': {}}
+[2026-06-04 12:46:30] INFO     ReportGenerator — Text report saved: output\report_20260604_124630.txt
+[2026-06-04 12:46:30] WARNING  ReportGenerator — No stats to write to CSV.
+[2026-06-04 12:46:30] INFO     main — All tasks completed. Check ./output folder.
+[2026-06-07 18:51:34] INFO     DataProcessor — Loaded 3 rows from 'test.csv'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Loaded 3 rows from 'test.csv'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Summary: 3 rows, 3 columns.
+[2026-06-07 18:51:34] INFO     DataProcessor — Loaded 3 rows from 'test.csv'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Filter 'status=active': 2 row(s) matched.
+[2026-06-07 18:51:34] INFO     DataProcessor — Loaded 3 rows from 'test.csv'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Removed 1 duplicate(s). 2 rows remain.
+[2026-06-07 18:51:34] INFO     DataProcessor — Loaded 3 rows from 'test.csv'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Filled 1 missing value(s) in 'score' with '0'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Loaded 3 rows from 'test.csv'.
+[2026-06-07 18:51:34] INFO     DataProcessor — Saved 3 rows to 'C:\Users\Sanjay\AppData\Local\Temp\pytest-of-Sanjay\pytest-0\test_data_processor_save0\out.csv'.
+[2026-06-07 18:51:34] WARNING  DataProcessor — File not found: nonexistent.csv. Starting with empty dataset.
+[2026-06-07 18:51:34] INFO     FileOrganizer — [DRY RUN] Would move: archive.zip → Archives/
+[2026-06-07 18:51:34] INFO     FileOrganizer — [DRY RUN] Would move: doc.pdf → Documents/
+[2026-06-07 18:51:34] INFO     FileOrganizer — [DRY RUN] Would move: photo.jpg → Images/
+[2026-06-07 18:51:34] INFO     FileOrganizer — [DRY RUN] Would move: script.py → Code/
+[2026-06-07 18:51:34] INFO     FileOrganizer — Organized 4 file(s) into 4 categorie(s).
+[2026-06-07 18:51:34] DEBUG    FileOrganizer — Moved: archive.zip → Archives/
+[2026-06-07 18:51:34] DEBUG    FileOrganizer — Moved: doc.pdf → Documents/
+[2026-06-07 18:51:34] DEBUG    FileOrganizer — Moved: photo.jpg → Images/
+[2026-06-07 18:51:34] DEBUG    FileOrganizer — Moved: script.py → Code/
+[2026-06-07 18:51:34] INFO     FileOrganizer — Organized 4 file(s) into 4 categorie(s).
+[2026-06-07 18:51:34] INFO     FileOrganizer — No files found to organize.
+[2026-06-07 18:51:34] INFO     ReportGenerator — Text report saved: C:\Users\Sanjay\AppData\Local\Temp\pytest-of-Sanjay\pytest-0\test_report_text0\report_20260607_185134.txt
+[2026-06-07 18:51:34] INFO     ReportGenerator — CSV report saved: C:\Users\Sanjay\AppData\Local\Temp\pytest-of-Sanjay\pytest-0\test_report_csv0\summary_20260607_185134.csv

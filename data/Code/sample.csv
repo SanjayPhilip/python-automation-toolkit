@@ -1,0 +1,11 @@
+id,name,department,salary,status,join_date
+1,Alice Johnson,Engineering,85000,active,2022-03-15
+2,Bob Smith,Marketing,62000,active,2021-07-01
+3,Carol White,Engineering,91000,active,2020-11-20
+4,David Brown,HR,54000,inactive,2019-05-10
+5,Eva Martinez,Engineering,78000,active,2023-01-08
+6,Frank Lee,Marketing,67000,active,2022-09-14
+7,Grace Kim,HR,58000,active,2021-03-22
+8,Henry Wilson,Engineering,95000,active,2018-12-01
+9,Isla Thomas,Marketing,,inactive,2020-06-30
+10,Jack Davis,Engineering,82000,active,2023-04-17
